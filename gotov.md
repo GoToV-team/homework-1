@@ -24,8 +24,7 @@ OC: `macOS 12.1 (21C52)`.
 8. [X] Добавление поста
 9. [X] Редактирование поста
 10. [x] Настройки автора
-11. [ ] Добавление уровня подписки
-12. [ ] Редактирование уровня подписки 
+11. [ ] Добавление/Редактирование уровня подписки 
 13. [x] Страница поста
 
 ## Любая страница
@@ -1044,6 +1043,53 @@ OC: `macOS 12.1 (21C52)`.
 
 
 
+## Создание/Редактирование уровня подписки
+
+|Создание|Редактирование|
+|---|---|
+|![изображение](https://user-images.githubusercontent.com/12639263/159175207-6c14ffc4-eb50-48de-bd87-0b706dfe959b.png)| ![изображение](https://user-images.githubusercontent.com/12639263/159175250-8dcb2a31-7fca-42a2-8888-5da7210f7c72.png)|
+
+### URL
+[Создание уровня подписки](https://pyaterochka-team.site/profile/creator/level/create)
+[Редактирование уровня подписки](https://pyaterochka-team.site/profile/creator/level/edit/3)
+
+### Тесты
+
+1. Нажатие на кнопку сохранить с пустым содержанием
+
+***Ожидаемый результат***: Появление сообщений об ошибках
+
+***Фактический результат***: `OK`
+
+![изображение](https://user-images.githubusercontent.com/12639263/159175207-6c14ffc4-eb50-48de-bd87-0b706dfe959b.png)
+![изображение](https://user-images.githubusercontent.com/12639263/159175342-ac5ef173-8fb5-47f1-bdc1-e25bdfccb482.png)
+
+2. Ввод текста
+
+***Ожидаемый результат***: Изменение блока предпросмотра в режиме реального времени ввода
+
+***Фактический результат***: `OK`
+
+file:///home/volodya/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/pyaterochka-team.site_profile_creator_level_create%20(2).png![изображение](https://user-images.githubusercontent.com/12639263/159175386-6b0a832f-37e8-4714-9e1e-1ff06789a3dc.png)
+
+file:///home/volodya/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/pyaterochka-team.site_profile_creator_level_create%20(3).png![изображение](https://user-images.githubusercontent.com/12639263/159175410-1ff56a3a-5b60-4e26-b428-1bc2adba2442.png)
+
+3. Нажатие на кнопку Добавить преимущество
+
+***Ожидаемый результат***: Появление нового текстового поля для ввода названия преимущества 
+
+***Фактический результат***: `OK`
+
+![изображение](https://user-images.githubusercontent.com/12639263/159175492-463bbc70-1d4b-42bc-834e-4b273af6435c.png)
+![изображение](https://user-images.githubusercontent.com/12639263/159175502-c08b1297-10af-44a1-b531-f5a617a0a53a.png)
 
 
+3. Нажатие на значок креста в текстовом поле ввода названия преимущества
+
+***Ожидаемый результат***: Исчезновения текстового блока с данным преимуществом 
+
+***Фактический результат***: `OK`
+
+![изображение](https://user-images.githubusercontent.com/12639263/159175599-5e313b7e-dead-464e-a497-3e574bf81592.png)
+![изображение](https://user-images.githubusercontent.com/12639263/159175633-ef634b7b-4982-4b2b-a3ac-218189169674.png)
 
