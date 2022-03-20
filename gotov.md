@@ -974,5 +974,26 @@ OC: `macOS 12.1 (21C52)`.
 ![изображение](https://user-images.githubusercontent.com/12639263/159173947-6472a992-64dc-4778-a64d-c02226c9aa1e.png)
 ![изображение](https://user-images.githubusercontent.com/12639263/159173932-776fd25b-907d-4e3d-8d83-6391bb67fb47.png)
 
+11. Нажатие на иконку с изображением видео-пленки
+
+***Ожидаемый результат***: Появление блока загрузки видео
+
+***Фактический результат***: `OK`
+
+![изображение](https://user-images.githubusercontent.com/12639263/159174052-dd9d2c92-a532-4b13-992d-40c21a013ab5.png)
+![изображение](https://user-images.githubusercontent.com/12639263/159174055-81e318b9-df31-4a16-a242-183c16d8b0e3.png)
+
+
+12. Нажатие на блок Загрузить видео  
+
+***Ожидаемый результат***: Открытие окна загрузки видео, появление плеера 
+
+***Фактический результат***: `OK`
+
+![изображение](https://user-images.githubusercontent.com/12639263/159174055-81e318b9-df31-4a16-a242-183c16d8b0e3.png)
+![изображение](https://user-images.githubusercontent.com/12639263/159174120-767ddbf2-f0ae-477c-a24a-e3a90241c425.png)
+![изображение](https://user-images.githubusercontent.com/12639263/159174144-6ed351ca-1f2e-4ce7-8b69-e97797aefd7b.png)
+
+
 
 
