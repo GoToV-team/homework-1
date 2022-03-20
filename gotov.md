@@ -1093,3 +1093,34 @@ file:///home/volodya/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/pyaterochk
 ![изображение](https://user-images.githubusercontent.com/12639263/159175599-5e313b7e-dead-464e-a497-3e574bf81592.png)
 ![изображение](https://user-images.githubusercontent.com/12639263/159175633-ef634b7b-4982-4b2b-a3ac-218189169674.png)
 
+4. Нажатие на кнопку сохранить
+
+***Ожидаемый результат***: Переход на страницу настроек автора
+
+***Фактический результат***: `OK`
+
+![pyaterochka-team site_profile_creator_level_create (8)](https://user-images.githubusercontent.com/12639263/159175712-c6b95ee4-77ee-4561-9ea7-15b225a9d111.png)
+![pyaterochka-team site_profile_creator_level_create (7)](https://user-images.githubusercontent.com/12639263/159175715-70cd30ae-6788-4326-9a86-c82c472b5968.png)
+
+
+5. Нажатие на кнопку удалить
+
+***Ожидаемый результат***: Появление предупреждения об удалении
+
+***Фактический результат***: `OK`
+
+
+![pyaterochka-team site_profile_creator_level_create (12)](https://user-images.githubusercontent.com/12639263/159175822-1672fac5-6776-450e-ab5b-74fd6fa13fab.png)
+![pyaterochka-team site_profile_creator_level_create (11)](https://user-images.githubusercontent.com/12639263/159175823-05f8010b-a905-4d29-a70b-4ac312d2d1bb.png)
+
+6. Нажатие на кнопку удалить на экране предупреждения об удалении
+
+***Ожидаемый результат***: Переход на страницу настроек автора, удаление удаляемого уровня из списка уровней 
+
+***Фактический результат***: `OK`
+
+
+![pyaterochka-team site_profile_creator_level_create (11)](https://user-images.githubusercontent.com/12639263/159175823-05f8010b-a905-4d29-a70b-4ac312d2d1bb.png)
+![pyaterochka-team site_profile_creator_level_create (10)](https://user-images.githubusercontent.com/12639263/159175825-d1f34f96-9d0d-4e79-ac59-1d47896a6c81.png)
+
+
