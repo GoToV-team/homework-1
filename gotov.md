@@ -263,6 +263,9 @@ OC: `macOS 12.1 (21C52)`.
 
 <img width="770" alt="Снимок экрана 2022-03-20 13-48-33" src="https://user-images.githubusercontent.com/59199486/159158720-82682ab4-9aa6-4cff-b014-647b3d9eab98.png">
 
+### URL
+[Профиль автора](https://pyaterochka-team.site/creator-panel)
+
 ### Тесты
 
 1. Кнопка "Настройки автора"
@@ -310,6 +313,9 @@ OC: `macOS 12.1 (21C52)`.
 ## Страница поиска
 
 <img width="770" alt="Снимок экрана 2022-03-20 13-46-34" src="https://user-images.githubusercontent.com/59199486/159158673-082e8dae-8e1a-4204-8874-5130b5fb3f49.png">
+
+### URL
+[Страница поиска](https://pyaterochka-team.site/search)
 
 ### Тесты
 
