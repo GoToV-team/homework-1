@@ -1070,9 +1070,8 @@ OC: `macOS 12.1 (21C52)`.
 
 ***Фактический результат***: `OK`
 
-file:///home/volodya/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/pyaterochka-team.site_profile_creator_level_create%20(2).png![изображение](https://user-images.githubusercontent.com/12639263/159175386-6b0a832f-37e8-4714-9e1e-1ff06789a3dc.png)
-
-file:///home/volodya/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/pyaterochka-team.site_profile_creator_level_create%20(3).png![изображение](https://user-images.githubusercontent.com/12639263/159175410-1ff56a3a-5b60-4e26-b428-1bc2adba2442.png)
+![изображение](https://user-images.githubusercontent.com/12639263/159175386-6b0a832f-37e8-4714-9e1e-1ff06789a3dc.png)
+![изображение](https://user-images.githubusercontent.com/12639263/159175410-1ff56a3a-5b60-4e26-b428-1bc2adba2442.png)
 
 3. Нажатие на кнопку Добавить преимущество
 
@@ -1109,8 +1108,7 @@ file:///home/volodya/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/pyaterochk
 
 ***Фактический результат***: `OK`
 
-
-![pyaterochka-team site_profile_creator_level_create (12)](https://user-images.githubusercontent.com/12639263/159175822-1672fac5-6776-450e-ab5b-74fd6fa13fab.png)
+![pyaterochka-team site_profile_creator_level_create (10)](https://user-images.githubusercontent.com/12639263/159175825-d1f34f96-9d0d-4e79-ac59-1d47896a6c81.png)
 ![pyaterochka-team site_profile_creator_level_create (11)](https://user-images.githubusercontent.com/12639263/159175823-05f8010b-a905-4d29-a70b-4ac312d2d1bb.png)
 
 6. Нажатие на кнопку удалить на экране предупреждения об удалении
@@ -1121,6 +1119,14 @@ file:///home/volodya/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/pyaterochk
 
 
 ![pyaterochka-team site_profile_creator_level_create (11)](https://user-images.githubusercontent.com/12639263/159175823-05f8010b-a905-4d29-a70b-4ac312d2d1bb.png)
-![pyaterochka-team site_profile_creator_level_create (10)](https://user-images.githubusercontent.com/12639263/159175825-d1f34f96-9d0d-4e79-ac59-1d47896a6c81.png)
+![pyaterochka-team site_profile_creator_level_create (12)](https://user-images.githubusercontent.com/12639263/159175822-1672fac5-6776-450e-ab5b-74fd6fa13fab.png)
 
+7. Нажатие на блок обложки
 
+***Ожидаемый результат***: Открытие окна загрузки изображение, появление изображения в блоке загрузки изображения и появление изображения в предпросмотре
+
+***Фактический результат***: `OK`
+
+![pyaterochka-team site_profile_edit_creator_settings](https://user-images.githubusercontent.com/12639263/159175962-332031ef-c200-4121-8f71-96e11ac4356f.png)
+![Снимок экрана от 2022-03-20 20-57-33](https://user-images.githubusercontent.com/12639263/159175982-22372fc9-a492-483b-897e-e3328e1fc0bf.png)
+![pyaterochka-team site_profile_edit_creator_settings (1)](https://user-images.githubusercontent.com/12639263/159175959-2a9d9fe1-27f2-4213-996c-66c9dc7ddad5.png)
