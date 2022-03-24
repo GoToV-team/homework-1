@@ -333,7 +333,7 @@ OC: `macOS 12.1 (21C52)`.
 ## Редактирование поста
 
 ### URL
-[Добавление поста](https://pyaterochka-team.site/edit/post/114)
+[Редактирование поста](https://pyaterochka-team.site/edit/post/114)
 
 ### Тесты
 
